@@ -1,0 +1,1 @@
+pyuic5  -x teste_botao.ui  -o teste_botao.py
